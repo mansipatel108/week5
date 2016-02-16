@@ -6,8 +6,8 @@
     "start": "node server.js"
   },
   "repository": {
-      "type": "git",
-      "url": "https://github.com/mansipatel108/week5"
+    "type": "git",
+    "url": "https://github.com/mansipatel108/week5"
   },
   "authors": "Mansi Patel",
   "description": "Gulp automation",
@@ -20,5 +20,8 @@
     "express": "~4.13.1",
     "morgan": "~1.6.1",
     "serve-favicon": "~2.3.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
   }
 }
